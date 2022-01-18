@@ -12,12 +12,13 @@ class UndefinedName{
     public: 
         X& Copyoperator = (const X& lvalue);
         x& Moveoperator= (const X&& rvalue);
-       
+           
 }
 
 
 
 int  main (){
+std:cout << UR" String literal, should 'i stop using backspace on sample code?";
 printPointer(9);
 retun 1 
 }
