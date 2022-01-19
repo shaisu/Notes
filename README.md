@@ -6,8 +6,7 @@
  * Green: references and links to Library Forums  
  * Yellow:  Notes, C ++ Language Libraries
  * Red Underline: Concepts
- * Purple:  algorithim runtime complexities
- * Blue: New STL 11 Methods, Information on other C++ verisons and it's compalability 
+
 
 
 
@@ -29,21 +28,19 @@ Books and Websites
  * [Matthew Austern. A Proposal to Add Hash Tables to the Standard Library](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1456.html)
  * [Open STD](http://www.open-std.org) 
  * [Bjarne Stroustrup. The C++ Programming Language, Third Edition. ](http://www.staroceans.org/e-book/The_C__Programming_Language__Stroustrup_.pdf)
- * 
+ 
                                             Yellow
 Libraries
 * [GSL-GNU](https://www.gnu.org/software/gsl/) scientific c++ 
 * [Boost](https://www.boost.org) Widely usable peer-reviwed portable source c++ libraries 
 * [C++ Standard Thread Library](https://www.stdthread.co.uk) framework
-* 
-* 
+
 
 
                                         Red Underline
 1. Big-O notation expresses the runtime of an algorithm as a function of a given input of size n
 2. Narrowing Initializations - those that reduce precision or where the supplied value gets modified - are not possible with braces
 3. A raw string allows one to define a character sequence by writing exactly its contents as a raw character sequence.
-4. 
 
 
 
