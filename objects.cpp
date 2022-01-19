@@ -40,4 +40,12 @@ retun 1
 }
 
 
+####################
+#Lamdas redefine c++ function code. Conciscely, a lamda is a definition of functionality defined inside an expression such as the one below
+
+[]() {}
+
+#the () function parameters are optinal whereas the [] are utilized to call data out of it's locally defined scope. In conclusion the {} braces define the function expression.
+
+
 
