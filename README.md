@@ -6,8 +6,8 @@
  * Green: references and links to Library Forums  
  * Yellow:  Notes, C ++ Language Libraries
  * Red Underline: Concepts
- * Purple:  algorithim runtime complexities
- * Blue: New STL 11 Methods, Information on other C++ verisons and it's compalability 
+
+
 
 
                                             Green
@@ -21,22 +21,26 @@ Books and Websites
  * [Pete Becker. The C++ Standard Library Extensions: A Tutorial and Reference. Reading, MA: Addison-Wesley, 2007](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwij2Y3ssJz1AhUhPn0KHSyjDZwQFnoECAQQAQ&url=https%3A%2F%2Fwww.amazon.com%2FStandard-Library-Extensions-Tutorial-Reference%2Fdp%2F0321412990&usg=AOvVaw1M97eC_UM1uCeGq3hr7jKU) 
  * [Thomas Becker. C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html)
  * [Hans J. Boehm. Threads and memory model for C++](https://www.hboehm.info/c++mm/) 
+ * [Bartosz Milewski Programming Cafe](https://bartoszmilewski.com)
  * [Hans J. Boehm and Sarita V. Adve. Foundations of the C++ Concurrency Memory Model](https://www.hpl.hp.com/techreports/2008/HPL-2008-56.pdf)
  * [ISO639 Codes for the Representation of Names of Languages](https://www.loc.gov/standards/iso639-2/php/English_list.php)
  * [Björn Karlsson. Beyond the C++ Standard Library: An Introduction to Boost. Reading, MA: Addison-Wesley, 2006](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjUt_-32pz1AhXglGoFHYRpBxcQFnoECAMQAQ&url=http%3A%2F%2F159.69.3.96%2Febooks%2FIT%2FPROGRAMMING%2FBoost%2FBeyond_The_Cpp_Standard_Library_An_Introduction_To_Boost.pdf&usg=AOvVaw33bhHA-baHKbeMrSn_hVZ2)
- * 
-
+ * [Matthew Austern. A Proposal to Add Hash Tables to the Standard Library](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1456.html)
+ * [Open STD](http://www.open-std.org) 
+ * [Bjarne Stroustrup. The C++ Programming Language, Third Edition. ](http://www.staroceans.org/e-book/The_C__Programming_Language__Stroustrup_.pdf)
+ 
                                             Yellow
 Libraries
 * [GSL-GNU](https://www.gnu.org/software/gsl/) scientific c++ 
 * [Boost](https://www.boost.org) Widely usable peer-reviwed portable source c++ libraries 
 * [C++ Standard Thread Library](https://www.stdthread.co.uk) framework
-* 
-* 
+
 
 
                                         Red Underline
 1. Big-O notation expresses the runtime of an algorithm as a function of a given input of size n
+2. Narrowing Initializations - those that reduce precision or where the supplied value gets modified - are not possible with braces
+3. A raw string allows one to define a character sequence by writing exactly its contents as a raw character sequence.
 
 
 
