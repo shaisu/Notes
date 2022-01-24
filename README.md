@@ -1,6 +1,6 @@
 # Annotations from Nicolai Josutti's reference for STL C++11 
 
-Table of Contents for Nicolai's STL C++ 11 
+Table of Contents 
 - Forums
 - Additional Books and Web material 
 - C ++ Language Libraries
