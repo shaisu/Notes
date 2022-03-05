@@ -34,7 +34,7 @@ Table of Contents
 
 
 
-<<<<<<< HEAD
+
                             Emphasis
 1. Big-O notation expresses the runtime of an algorithm as a function of a given input of size n
 2. Narrowing Initializations - those that reduce precision or where the supplied value gets modified - are not possible with braces
