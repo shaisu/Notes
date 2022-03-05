@@ -40,12 +40,3 @@ Table of Contents
 2. Narrowing Initializations - those that reduce precision or where the supplied value gets modified - are not possible with braces
 3. A raw string allows one to define a character sequence by writing exactly its contents as a raw character sequence.
 4. You may, but are not required to, end main() with a return statement. Unlike C, C++ defines an implicit return 0; at the end of main(). This means that every program that leaves main() without a return statement is successful. Therefore, examples in this book have no return statement at the end of main().
-=======
->>>>>>> 31be73c8394dace0460944c233906f4fd09d6cfe
-
-
-
-
-
-
-  
