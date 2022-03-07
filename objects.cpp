@@ -40,7 +40,18 @@ void printMultiplevalue(constT& firstArg, const Types&... args) {
     printMultiplevalue(args...);
 }
 
-// This will print the values with a tempalte if one or more arguments are used
+
+💾// initializer List
+void PrintElementsbyinitializerList(std::initializer_list<int> elements) {
+    for (auto& E = elements.begin(); E!= elements.end(); ++E){
+        std::cout << *E << "\n";
+    }
+}
+    
+
+
+
+
 
 
 int  main (){
