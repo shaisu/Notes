@@ -1,12 +1,15 @@
-/* Welcome to the notes for cpp objects. Within this code we annotate the definitive caveats with wich we utilize wach of the many pieces of C++ objects, in particular, with relevancy to the C++ STL 11 ISO Standard. Here, I will also provide the correct and typical use of certian C++ methods. */
+/* Welcome, these are Notes highlighting methods for C++ obejcts introduced by STL 11.
 
+ Within this code I annotate the definitive caveats introduced colloquially by the Second Standardization of the C++ Language. */
 
 
 import <iostream>
 import <String>
 
+
 /*
- Import Statements enumerate the specified libraries which will be inherited into our program. In this case, we are importing the library "iostream" and the "String" library. The "iostream" library is included with the ___ and it will be either called directly by oir program or compiled as runtime or when the program is initialized. I have to see how it is particularly initialized and also in the amount of data bytes each of these libraries utlizes. I want to do this to get an exact estimate of the importes libraries amd if the enitre library is imported into our program or if we only utilize its components as runtime.
+ Import Statements enumerate the specified libraries which will be inherited into our program. Here we are importing the library "iostream" and the "String" library.
+ The "iostream" library is included with the ___ and it will be either called directly by oir program or compiled as runtime or when the program is initialized. I have to see how it is particularly initialized and also in the amount of data bytes each of these libraries utlizes. I want to do this to get an exact estimate of the importes libraries amd if the enitre library is imported into our program or if we only utilize its components as runtime.
  */
 
 void printPointer(std:initializer_list<int> vals)
@@ -14,7 +17,7 @@ void printPointer(std:initializer_list<int> vals)
     for (auto p=vals.begin(); p! =vals.end)();++p){
         std:cout << p << " is located at address:  " << *p << "/n ";} 
 }
-/* The function printPointer will print the address for each value on a list whose values are of type int. It uses the C++ class template std:initializer_list<> which is used to support initializations by a list of values or in instances were the user defined variables */
+/* The function printPointer will print the address, in the pointer notation, for each value by a list whose values are of type int. This function uses the C++ class template std:initializer_list<> which is used to support initializations by a list of values. */
 
 
 class UndefinedName{
@@ -23,9 +26,9 @@ class UndefinedName{
         x& Moveoperator= (const X&& rvalue);
            
 }
-// Considering a class UndefinedName we write two public variables with a "Copy" and a "Move" operator. We must ask ourselves what the ampersand & and the double ampersand && do.
+// Considering a class, in C++ it is custmomary to write two public variables, one who can "Copy" and another operator which can "Move". We must ask ourselves what the ampersand & and the double ampersand && do.
 
-/* Classes are C++ objects which ____ */
+/* Classes are C++ objects which ____ containerize a set of variables and functions. */
 
 //This next template function takes a function decleration, it's template, and the definite function definition. ____ elaborate
 
@@ -48,11 +51,6 @@ void PrintElementsbyinitializerList(std::initializer_list<int> elements) {
     }
 }
     
-
-
-
-
-
 
 int  main (){
 std:cout << UR" String literal, should 'i stop using backspace on sample code?";
