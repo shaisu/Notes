@@ -1,4 +1,4 @@
-# Annotations from Nicolai Josutti's reference for STL C++11 
+# Private Nicolai Josutti's for STL C++11 
 
 Table of Contents 
 - Forums
