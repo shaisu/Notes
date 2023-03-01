@@ -35,7 +35,7 @@ Table of Contents
 
 
 
-                            Emphasis
+                                            Notes 
 1. Big-O notation expresses the runtime of an algorithm as a function of a given input of size n
 2. Narrowing Initializations - those that reduce precision or where the supplied value gets modified - are not possible with braces
 3. A raw string allows one to define a character sequence by writing exactly its contents as a raw character sequence.
