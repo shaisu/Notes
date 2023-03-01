@@ -24,7 +24,7 @@ Table of Contents
  * [Björn Karlsson. Beyond the C++ Standard Library: An Introduction to Boost. Reading, MA: Addison-Wesley, 2006](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjUt_-32pz1AhXglGoFHYRpBxcQFnoECAMQAQ&url=http%3A%2F%2F159.69.3.96%2Febooks%2FIT%2FPROGRAMMING%2FBoost%2FBeyond_The_Cpp_Standard_Library_An_Introduction_To_Boost.pdf&usg=AOvVaw33bhHA-baHKbeMrSn_hVZ2)
  * [Matthew Austern. A Proposal to Add Hash Tables to the Standard Library](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1456.html)
  * [Open STD](http://www.open-std.org) 
- * [Bjarne Stroustrup. The C++ Programming Language, Third Edition. ](http://www.staroceans.org/e-book/The_C__Programming_Language__Stroustrup_.pdf)
+ 
  
                             Libraries
 
