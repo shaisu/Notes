@@ -1,4 +1,3 @@
-#Standard Library 11 
 
 Table of Contents 
 - Forums
