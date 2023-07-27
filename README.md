@@ -1,16 +1,18 @@
 
-Table of Contents 
-- Forums
-- Books
-- C ++ Language Libraries
-                  
-                            Forums 
+# Table of Contents 
 
+- Channels
+- C++ STL 11 Websites and Books
+- C ++ Language Libraries
+
+
+                  
+                            Channels
 * [Stackoverflow Forum](http://stackoverflow.com/tags/c++/info)
 * [Google NewsGroup1](https://groups.google.com/g/comp.lang.c++/about)
 * [Google NewsGroup2](http://groups.google.com/group/alt.comp.lang.learn.c-c++/about)
 
-                     Books Websites
+                     Books and Websites 
  
  * [Main Website for this book by Nicolai](http://www.cppstdlib.com) 
  * [Matthew H. Austern. Generic Programming and the STL: Using and Extending the C++ Standard Template Library. Reading, MA: Addison-Wesley, 1998](https://openlibrary.org/books/OL369307M/Generic_programming_and_the_STL)
